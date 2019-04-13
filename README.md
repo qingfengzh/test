@@ -32,14 +32,17 @@ Requirement
 * Java JDK5 >= 10
 * Android Studio > 3.0
 
+Download And Install Java
 ```
-Download And Install Java [https://www.oracle.com/technetwork/java/javase/downloads/index.html]
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
 ```
 
+Install Android Studio
 ```
-Install Android Studio [https://developer.android.com/studio]
+https://developer.android.com/studio
+```
+
 And you need to set up JDK version path during installation.
-```
 
 Clone Project 
 ```
