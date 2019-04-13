@@ -42,8 +42,6 @@ Install Android Studio
 https://developer.android.com/studio
 ```
 
-And you need to set up JDK version path during installation.
-
 Clone Project 
 ```
 git clone https://github.com/bitshares/bitshares-mobile-app.git
