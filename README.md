@@ -51,10 +51,9 @@ Open Project
 Open Android Studio and open the project directory bitshare-mobile-app/android
 ```
 
-<p align="center">
-  <h3 align="center">Download Android Sdk (Android Api 21 And Android Api 28)</h3>
-
-  <p align="center">
+<p>
+  <h3>Download Android Sdk (Android Api 21 And Android Api 28)</h3>
+  <p>
     <a href="#">
       <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-setting-android-sdk.png" alt="" width=600 height=400>
     </a>
