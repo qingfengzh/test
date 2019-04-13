@@ -51,7 +51,6 @@ Open Project
 Open Android Studio and open the project directory bitshare-mobile-app/android
 ```
 
-```
 Download Android Sdk (Android Api 21 And Android Api 28)
 
 <p align="center">
@@ -63,7 +62,6 @@ Download Android Sdk (Android Api 21 And Android Api 28)
     </a>
   </p>
 </p>
-```
 
 Synchronize Gradle files and install dependencies
 ```
