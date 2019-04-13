@@ -51,17 +51,16 @@ Open Project
 Open Android Studio and open the project directory bitshare-mobile-app/android
 ```
 
-Download Android Sdk (Android Api 21 And Android Api 28)
-
 <p align="center">
-  <h3 align="center">nini</h3>
+  <h3 align="center">Download Android Sdk (Android Api 21 And Android Api 28)</h3>
 
   <p align="center">
     <a href="#">
-      <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-setting-android-sdk.png" alt="" width=240 height=334>
+      <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-setting-android-sdk.png" alt="" width=600 height=400>
     </a>
   </p>
 </p>
+
 
 Synchronize Gradle files and install dependencies
 ```
