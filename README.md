@@ -66,6 +66,11 @@ Synchronize Gradle files and install dependencies
 ```
 Click `File -> Sync Project With Gradle Files`
 ```
+<p>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-gradle.png" alt="" width=600 height=400>
+  </a>
+</p>
 
 Test
 ```
