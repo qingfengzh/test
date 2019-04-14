@@ -37,40 +37,32 @@ Set Android Sdk (Android Api 21 And Android Api 28)
   </a>
 </p>
 
-Synchronize Gradle files and install dependencies
-```
-Click `File -> Sync Project With Gradle Files`
-```
+
+Synchronize Gradle files and install dependencies, Click `File -> Sync Project With Gradle Files`
 <p>
   <a href="#">
     <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-gradle.png" alt="" width=600 height=400>
   </a>
 </p>
 
-Test
-```
-Click `Run -> Run 'app'`
-```
+
+Click `Run -> Run 'app'` to Test
 <p>
   <a href="#">
     <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-b1.png" alt="" width=600 height=400>
   </a>
 </p>
 
-Generate Test Apk
-```
-Click `Build -> Build APK(s)`
-```
+
+Generate Test Apk Click `Build -> Build APK(s)`
 <p>
   <a href="#">
     <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-b2.png" alt="" width=600 height=400>
   </a>
 </p>
 
-Generate Signed Apk
-```
-Click `Build -> Generate Signed APK`
-```
+
+Generate Signed Apk Click `Build -> Generate Signed APK`
 <p>
   <a href="#">
     <img src="https://raw.githubusercontent.com/yoshikizh/test/master/android-b3.png" alt="" width=600 height=400>
